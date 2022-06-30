@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ukkoon/url-shortener/issues"
+    "url": "https://github.com/ukkoon/ts-node-skeleton/issues"
   },
-  "homepage": "https://github.com/ukkoon/url-shortener#readme",
+  "homepage": "https://github.com/ukkoon/ts-node-skeleton#readme",
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^18.0.0",
